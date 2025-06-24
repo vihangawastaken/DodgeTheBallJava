@@ -11,7 +11,9 @@ I created this project solely for my own learning and practice with Java, Swing,
 ---
 
 ## How to Use
+- Make sure you have Java installed and just simply run the "game.jar" file.
 
+- Or if you like to make your life harder :
 - Clone or download the repository.
 - Compile and run the `GamePanel` class within a Java Swing application.
 - Use left and right arrow keys to move the player.
